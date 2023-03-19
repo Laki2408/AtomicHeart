@@ -1,0 +1,39 @@
+body {
+    /** max-width: 2300px; */
+     width: 100%;
+     margin: auto;
+     background: url("./img/back-4.jpg") no-repeat center;
+     height: 100%;
+     color: #fff;
+     position:inherit;
+     -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+   }
+   
+   .button-1 {
+     all: unset;
+     background: #BA1E38;
+     border-radius: 5px;
+     font-weight: 500;
+     font-size: 200%;
+     line-height: 19px;
+     padding: 22px 55px;
+     display: flex;
+     justify-content: space-between;
+     margin: 10%;
+     color: #fff;
+   }
+   
+   
+   .main {
+     max-width: 500px;
+   }
+    
+   img {
+     max-width: 715px;
+     max-height: 240px;
+     width: 40%;
+     height: 90%;
+   }

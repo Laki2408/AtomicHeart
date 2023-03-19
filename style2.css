@@ -1,0 +1,81 @@
+body {
+   
+    width: 100%; 
+   /*margin: auto;*/
+   background: url("./img/backgroung-1.jpg") no-repeat center;
+    height: 100%;
+   color: #fff; 
+   position: absolute;
+   -moz-background-size: 100%; 
+  -webkit-background-size: 100%; 
+  -o-background-size: 100%; 
+  background-size: 100%; 
+ }
+ 
+  .menu-list {
+  display: flex;
+  list-style-type: none;
+  /* justify-content: space-between; */
+  margin-top: 2%;
+  margin-left: 5%;
+  }
+
+ /*.menu-item:not(:last-child) {
+  margin-left: 5%;
+}*/
+ 
+.menu-item a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #b8969687;
+  font-size: 200%;
+  margin-top: 120%;
+  
+}
+
+.M1 {
+  margin-left: 20%;
+
+  text-decoration: none;
+  color: #fff;
+  background-color: #b8969687;
+  font-size: 200%;
+  margin-top: 10%;
+  
+  
+}
+
+.M2 {
+  margin-left: 50%;
+
+  text-decoration: none;
+  color: #fff;
+  background-color: #b8969687;
+  font-size: 200%;
+  margin-top: 120%;
+}
+
+
+h3 {
+  max-width: 30%;
+  margin-left: 6.5%;
+  margin-top: 2%;
+  background-color: #b8969687; /* Цвет фона под заголовком */
+  color: white; /* Цвет текста */
+  padding: 2px; /* Поля вокруг текста */
+}
+
+marquee {
+  background-color: #b8969687; /* Цвет фона под заголовком */
+  color: white; /* Цвет текста */
+  padding: 2px; /* Поля вокруг текста */
+  font-size: 200%;
+  margin-top: 3%;
+
+}
+
+a:hover {
+
+  background-color: #5b4242;
+ 
+ }
