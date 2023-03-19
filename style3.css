@@ -1,7 +1,6 @@
 body {
    
-    width: 100%; 
-   /*margin: auto;*/
+    width: 100%;
    background: url("./img/back-5.jpeg") no-repeat center;
     height: 100%;
    color: #fff; 
@@ -15,7 +14,6 @@ body {
  .menu-list {
   display: flex;
   list-style-type: none;
-  /* justify-content: space-between; */
   margin-top: 2%;
   margin-left: 5%;
 }
@@ -41,9 +39,9 @@ h3 {
   max-width: 30%;
   margin-left: 7.5%;
   margin-top: 10%;
-  background-color: #b8969687; /* Цвет фона под заголовком */
-  color: white; /* Цвет текста */
-  padding: 2px; /* Поля вокруг текста */
+  background-color: #b8969687; 
+  color: white; 
+  padding: 2px; 
 }
 
 a:hover {
