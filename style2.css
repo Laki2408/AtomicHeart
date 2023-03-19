@@ -27,7 +27,7 @@ body {
 .menu-item a {
   text-decoration: none;
   color: #fff;
-  background-color: #FCFCFC;
+  background-color: #FCFCFC7d;
   font-size: 200%;
   margin-top: 120%;
   
@@ -38,7 +38,7 @@ body {
 
   text-decoration: none;
   color: #fff;
-  background-color: #FCFCFC;
+  background-color: #FCFCFC7d;
   font-size: 200%;
   margin-top: 10%;
   
@@ -50,7 +50,7 @@ body {
 
   text-decoration: none;
   color: #fff;
-  background-color: #FCFCFC;
+  background-color: #fcfcfc7d;
   font-size: 200%;
   margin-top: 120%;
 }
@@ -60,13 +60,13 @@ h3 {
   max-width: 30%;
   margin-left: 6.5%;
   margin-top: 2%;
-  background-color: #FCFCFC; /* Цвет фона под заголовком */
+  background-color: #FCFCFC7d; /* Цвет фона под заголовком */
   color: white; /* Цвет текста */
   padding: 2px; /* Поля вокруг текста */
 }
 
 marquee {
-  background-color: #FCFCFC; /* Цвет фона под заголовком */
+  background-color: #fcfcfc7d; /* Цвет фона под заголовком */
   color: white; /* Цвет текста */
   padding: 2px; /* Поля вокруг текста */
   font-size: 200%;

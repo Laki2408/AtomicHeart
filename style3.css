@@ -25,7 +25,7 @@ body {
 .menu-item a {
   text-decoration: none;
   color: #fff;
-  background-color: #FCFCFC;
+  background-color: #fcfcfc7d;
   font-size: 200%
 }
 
@@ -39,7 +39,7 @@ h3 {
   max-width: 30%;
   margin-left: 7.5%;
   margin-top: 10%;
-  background-color: #FCFCFC; 
+  background-color: #fcfcfc7d; 
   color: white; 
   padding: 2px; 
 }
